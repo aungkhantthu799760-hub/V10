@@ -1,0 +1,6 @@
+license_secret.key
+license_private.key
+license.c
+setup.py
+build/
+__pycache__/
